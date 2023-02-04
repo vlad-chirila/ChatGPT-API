@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0l7fXcXCpz+ssiPPw0fuWGinv8TzB7NUx5hlsQpP7eWR1Y9OaAJJ0PLGYfcwu+5WAyaXm6PpsT5IwI3nnznB2g==",
+  "dgSpecHash": "iydNFqcZ6SZnErRXnoEGGaFOVorJwa53QB/wdmfgBBmuxUMhT84KQ3oFfqGepiYQfpHnIICAn6pOnf3J8prtdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vlad-PC\\source\\repos\\ChatGPT-API\\ChatGPT\\ChatGPT.csproj",
+  "projectFilePath": "C:\\Users\\Vlad-PC\\source\\repos\\ChatGPT-API\\ChatGpt\\ChatGPT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vlad-PC\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
