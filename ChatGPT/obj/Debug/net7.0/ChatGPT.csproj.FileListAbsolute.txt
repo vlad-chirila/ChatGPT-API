@@ -13,3 +13,5 @@ C:\Users\Vlad-PC\source\repos\ChatGPT-API\ChatGPT\obj\Debug\net7.0\refint\ChatGP
 C:\Users\Vlad-PC\source\repos\ChatGPT-API\ChatGPT\obj\Debug\net7.0\ChatGPT.pdb
 C:\Users\Vlad-PC\source\repos\ChatGPT-API\ChatGPT\obj\Debug\net7.0\ChatGPT.genruntimeconfig.cache
 C:\Users\Vlad-PC\source\repos\ChatGPT-API\ChatGPT\obj\Debug\net7.0\ref\ChatGPT.dll
+C:\Users\Vlad-PC\source\repos\ChatGPT-API\ChatGPT\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Vlad-PC\source\repos\ChatGPT-API\ChatGPT\obj\Debug\net7.0\ChatGPT.csproj.CopyComplete
