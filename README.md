@@ -1,5 +1,5 @@
 # Simple ChatGPT-API client
-![alt text](https://pixabay.com/get/g4dccc990fb27810252d4f8718c4d0384e5276861f60f1e715b48d8d35fac74169cae3d597c1d15d1dfc5c219cc1c445100dbb5700ccf2227071f8de4247673d4afd30f3d898808e2bb5a82fe306230d4_640.jpg)
+![alt text](https://i.postimg.cc/6pbhMsq3/artificial-neural-network-g1694de461-1920.png)
 
 ## Getting Started
 Step-by-step instructions on how to install and set up the project on a local machine.
